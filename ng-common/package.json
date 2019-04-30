@@ -1,0 +1,21 @@
+{
+  "name": "@ng/common",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+  "main": "bundles/ng-common.umd.js",
+  "module": "fesm5/ng-common.js",
+  "es2015": "fesm2015/ng-common.js",
+  "esm5": "esm5/ng-common.js",
+  "esm2015": "esm2015/ng-common.js",
+  "fesm5": "fesm5/ng-common.js",
+  "fesm2015": "fesm2015/ng-common.js",
+  "typings": "ng-common.d.ts",
+  "metadata": "ng-common.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
